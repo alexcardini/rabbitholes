@@ -555,7 +555,7 @@ const SearchView: React.FC = () => {
     return (
       <div className="flex flex-col items-center justify-center min-h-screen bg-[#0A0A0A]">
         <a
-          href="https://github.com/AsyncFuncAI/rabbitholes"
+          href="https://www.konfront.mx"
           target="_blank"
           rel="noopener noreferrer"
           className="fixed top-6 right-6 z-50 transform hover:scale-110 transition-transform duration-300 group"
