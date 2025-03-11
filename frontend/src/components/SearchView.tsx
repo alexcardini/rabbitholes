@@ -669,7 +669,7 @@ const SearchView: React.FC = () => {
               value={query}
               onChange={(e: React.ChangeEvent<HTMLInputElement>) => setQuery(e.target.value)}
               onKeyPress={(e: React.KeyboardEvent) => e.key === 'Enter' && handleSearch()}
-              placeholder="Ask your question..."
+              placeholder="Ask any question to explore a knowledge rabbithole"
               disabled={isLoading}
             />
             {isLoading ? (
