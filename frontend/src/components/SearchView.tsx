@@ -689,7 +689,7 @@ const SearchView: React.FC = () => {
           </div>
           
           <div className="mt-8 text-white/40 text-sm font-light tracking-wider animate-pulse-glow">
-            VENTURE INTO THE UNKNOWN
+            A search engine for the curious—ask anything and watch ideas unfold
           </div>
         </div>
       </div>
