@@ -571,9 +571,19 @@ const SearchView: React.FC = () => {
             </svg>
           </div>
         </a>
+        <div className="w-full max-w-2xl mx-auto text-center relative">
+          <div className="mb-12 animate-float">
+            <svg className="w-16 h-16 mx-auto animate-pulse-glow" viewBox="0 0 24 24" fill="none" stroke="rgba(255, 255, 255, 0.8)" strokeWidth="1">
+              <circle cx="12" cy="12" r="10" />
+              <circle cx="12" cy="12" r="6" />
+              <circle cx="12" cy="12" r="2" />
+              <path d="M12 2v2M12 20v2M2 12h2M20 12h2" />
+              <path d="M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41" />
+            </svg>
+          </div>
           
           <h1 className="font-mystical text-3xl font-light mb-8 text-white opacity-90 tracking-[0.2em] uppercase">
-          Step Into the RabbitHole – One Question, Infinite Paths.
+            Step Into the RabbitHole: One Question, Infinite Paths.
           </h1>
 
           <div className="grid grid-cols-3 gap-8 mb-12 max-w-4xl mx-auto">
