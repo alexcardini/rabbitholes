@@ -210,28 +210,28 @@ const useDeckHoverAnimation = (deckRef: React.RefObject<HTMLDivElement>) => {
 
 const DECK_QUESTIONS = {
   thoth: [
-    "What secrets lie in the cosmic patterns of consciousness?",
-    "How do ancient symbols guide modern wisdom seekers?",
-    "What hidden knowledge flows through the akashic records?",
-    "How do celestial alignments influence human consciousness?",
-    "What mysteries of sacred geometry shape our reality?",
-    "How does divine wisdom manifest in everyday synchronicities?"
+    "How can leaders balance creativity with execution?",
+    "What are the key mindsets that drive innovation?",
+    "How does curiosity shape leadership?",
+    "What’s the biggest barrier to personal and professional growth?",
+    "How can leaders foster a culture of continuous learning?",
+    "What’s the most underrated skill for effective leadership in tech?"
   ],
   anubis: [
-    "What lies beyond the veil between life and death?",
-    "How do souls navigate the journey through the afterlife?",
-    "What wisdom do ancestral spirits wish to share?",
-    "How does death illuminate the meaning of life?",
-    "What secrets lie in the ancient Egyptian Book of the Dead?",
-    "How do we bridge the gap between mortal and immortal realms?"
+    "What’s the next big technological breakthrough no one sees coming?",
+    "How will AI reshape human creativity?",
+    "What industries are most vulnerable to disruption in the next decade?",
+    "How do we balance innovation with ethical responsibility?",
+    "What’s the most exciting use of blockchain beyond finance?",
+    "How will quantum computing change everything we know?"
   ],
   isis: [
-    "How does ancient wisdom guide our modern understanding?",
-    "What forgotten knowledge lies in the temples of antiquity?",
-    "How do we unlock the mysteries of divine feminine power?",
-    "What sacred rituals can transform consciousness?",
-    "How do we balance material and spiritual existence?",
-    "What ancient healing practices remain relevant today?"
+    "What’s the biggest unsolved problem in software development?",
+    "Why do most startups fail despite having great tech?",
+    "What’s the hardest challenge in scaling a technology company?",
+    "How can developers avoid over-engineering solutions?",
+    "What’s the real bottleneck in AI adoption today?",
+    "How do we design technology that truly empowers people?"
   ]
 } as const;
 
