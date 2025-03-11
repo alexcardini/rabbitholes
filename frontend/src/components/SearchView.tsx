@@ -582,8 +582,9 @@ const SearchView: React.FC = () => {
             </svg>
           </div>
           
-          <h1 className="font-mystical text-3xl font-light mb-8 text-white opacity-90 tracking-[0.2em] uppercase">
-            Step Into the RabbitHole: One Question, Infinite Paths.
+          <h1 className="font-mystical text-3xl font-light mb-8 text-white opacity-90 tracking-[0.1em] uppercase">
+            Step Into the RabbitHole:
+            One Question, Infinite Paths.
           </h1>
 
           <div className="grid grid-cols-3 gap-8 mb-12 max-w-4xl mx-auto">
