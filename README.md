@@ -1,6 +1,4 @@
-# 🐰 Open Source RabbitHole - Knowledge Explorer
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/)
 
 ## 🚀 Quick Deploy
 
